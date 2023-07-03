@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "Casual";
+        src: url("../assets/fonts/Casual.otf");
+    }
+    @font-face {
+        font-family: "morning-rainbow";
+        src: url("../assets/fonts/morning-rainbow.otf");
+    }
+    @font-face {
+        font-family: "chicken-pie";
+        src: url("../assets/fonts/Chicken Pie.otf");
+    }
+}
